@@ -1,0 +1,11 @@
+D:\dev\programming-basic\reference\reference_number\reference_number\bin\Debug\netcoreapp2.2\referenceNumber.deps.json
+D:\dev\programming-basic\reference\reference_number\reference_number\bin\Debug\netcoreapp2.2\referenceNumber.runtimeconfig.json
+D:\dev\programming-basic\reference\reference_number\reference_number\bin\Debug\netcoreapp2.2\referenceNumber.runtimeconfig.dev.json
+D:\dev\programming-basic\reference\reference_number\reference_number\bin\Debug\netcoreapp2.2\referenceNumber.dll
+D:\dev\programming-basic\reference\reference_number\reference_number\bin\Debug\netcoreapp2.2\referenceNumber.pdb
+D:\dev\programming-basic\reference\reference_number\reference_number\obj\Debug\netcoreapp2.2\referenceNumber.csprojAssemblyReference.cache
+D:\dev\programming-basic\reference\reference_number\reference_number\obj\Debug\netcoreapp2.2\referenceNumber.csproj.CoreCompileInputs.cache
+D:\dev\programming-basic\reference\reference_number\reference_number\obj\Debug\netcoreapp2.2\referenceNumber.AssemblyInfoInputs.cache
+D:\dev\programming-basic\reference\reference_number\reference_number\obj\Debug\netcoreapp2.2\referenceNumber.AssemblyInfo.cs
+D:\dev\programming-basic\reference\reference_number\reference_number\obj\Debug\netcoreapp2.2\referenceNumber.dll
+D:\dev\programming-basic\reference\reference_number\reference_number\obj\Debug\netcoreapp2.2\referenceNumber.pdb
